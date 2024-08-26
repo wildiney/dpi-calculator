@@ -1,5 +1,5 @@
-# DPI - DISTANCE CALCULATOR
+# Calculate DPI by Distance
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Calculate how much dpi is needed in a image based in a distance which will be observed.
 
-This code calculates the minimum dpi for a printed art based at the distance that people usually will see.
+The input need to be in centimeters.
